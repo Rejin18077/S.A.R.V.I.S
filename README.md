@@ -1,6 +1,6 @@
-# S.A.R.V.I.S
+# S.A.R.V.I.S.
 
-S.A.R.V.I.S is a lightweight research workspace for prompt-based surgical instrument segmentation on the CholecT50 validation set using MedSAM2 and SAM.
+S.A.R.V.I.S. is a lightweight research workspace for prompt-based surgical instrument segmentation on the CholecT50 validation set using MedSAM2 and SAM.
 
 This repo contains the code used to:
 
