@@ -11,3 +11,7 @@ _C.*
 outputs/*
 checkpoints/*.pt
 *.pt
+cholect50_pilot_output/
+videos_5fps_synthetic/
+benchmark_sam_vs_medsam2/
+MedSAM2.egg-info/
