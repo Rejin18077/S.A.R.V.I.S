@@ -15,3 +15,7 @@ cholect50_pilot_output/
 videos_5fps_synthetic/
 benchmark_sam_vs_medsam2/
 MedSAM2.egg-info/
+
+# Ignore large datasets and generated outputs
+cholect50-challenge-val/
+full_instrument_segmentation/output/
